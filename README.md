@@ -34,6 +34,8 @@ Try the game live: [Memory Game Demo](https://your-game-link-here.com)
 
 
 ### Installation
+eg. [Download](https://github.com/M7md-Gamal/Memory-Game/releases/download/latest/Memory.Game.apk)
+
 ## Screenshots
 
 
