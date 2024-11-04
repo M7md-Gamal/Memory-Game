@@ -31,5 +31,8 @@ eg. [Download](https://github.com/M7md-Gamal/Memory-Game/releases/latest/downloa
 
 ## Screenshots
 
-![Screenshot](Photos/1.png) ![Screenshot](Photos/2.png)
-![Screenshot](Photos/3.png) ![Screenshot](Photos/4.png)
+<img src="Photos/1.png" alt="Screenshot" width="300" height="200">
+<img src="Photos/2.png" alt="Screenshot" width="300" height="200">
+<img src="Photos/3.png" alt="Screenshot" width="300" height="200">
+<img src="Photos/4.png" alt="Screenshot" width="300" height="200">
+
