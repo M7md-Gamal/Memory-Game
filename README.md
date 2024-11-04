@@ -8,7 +8,9 @@ A simple memory game built using kotlin compos. The goal of the game is to match
 - [Features](#features)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
+- [Game Rules](#game-rules)
 - [Screenshots](#screenshots)
+- [License](#license)
 
 ## Demo
 
@@ -33,10 +35,4 @@ Try the game live: [Memory Game Demo](https://your-game-link-here.com)
 
 ### Installation
 
-## Screenshots
-
-<img alt="Screenshot" height="150" src="Photos/1.png" width="200"/>
-![Screenshot](Photos/2.png)
-![Screenshot](Photos/3.png)
-![Screenshot](Photos/4.png)
 
