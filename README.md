@@ -36,7 +36,6 @@ Try the game live: [Memory Game Demo](https://your-game-link-here.com)
 ### Installation
 ## Screenshots
 
-![Screenshot](Photos/1.png) ![Screenshot](Photos/2.png)
-![Screenshot](Photos/3.png) ![Screenshot](Photos/4.png)
+
 
 ![Screenshot_2024-11-04-10-54-24-205_com elkabsh memorygame](https://github.com/user-attachments/assets/541ba8b6-5787-4443-a401-fd7be66dc09f)
