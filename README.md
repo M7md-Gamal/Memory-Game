@@ -36,8 +36,6 @@ Try the game live: [Memory Game Demo](https://your-game-link-here.com)
 ### Installation
 ## Screenshots
 
-<img alt="Screenshot" height="299" src="Photos/1.png" width="150"/>
-![Screenshot](Photos/2.png)
-![Screenshot](Photos/3.png)
-![Screenshot](Photos/4.png)
+![Screenshot](Photos/1.png) ![Screenshot](Photos/2.png)
+![Screenshot](Photos/3.png) ![Screenshot](Photos/4.png)
 
